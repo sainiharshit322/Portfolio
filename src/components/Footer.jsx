@@ -1,5 +1,3 @@
-"use client"
-
 import { useState, useEffect } from "react"
 import { Github, Linkedin, Twitter, Mail, Heart, ArrowUp, Code } from "lucide-react"
 
